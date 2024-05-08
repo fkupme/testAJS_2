@@ -1,0 +1,9 @@
+{
+	"scripts": {
+		"live": "http-server -o ./src -p 8082",
+		"start": "node src/index.js"
+	},
+	"dependencies": {
+		"@fkupme/testajs": "^1.0.0"
+	}
+}
